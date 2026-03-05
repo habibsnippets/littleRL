@@ -1,4 +1,4 @@
-# tinyrl 🧠
+# chillRL 🧠
 
 A minimal, readable RL library built algorithm by algorithm.
 
